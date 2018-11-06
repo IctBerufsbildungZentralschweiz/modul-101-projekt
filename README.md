@@ -63,7 +63,8 @@ Bis am Abend von Tag 3 muss von jedem Team ein Konzept für die umzusetzende Web
 * Sitemap
 * Test-Checkliste (min. 7 Testfälle)
 
-Das Konzept ist digital abzugeben, für die Struktur kann folgende Vorlage verwendet werden: [Konzeptvorlage](src/Projektarbeit_M101_Konzept_VORLAGE.docx)
+Das Konzept ist digital im Moodle abzugeben, für die Struktur kann folgende Vorlage verwendet werden: [Konzeptvorlage]
+(src/Projektarbeit_M101_Konzept_VORLAGE.docx)
 
 ### Umsetzung (bis Nachmittag Tag 5)
 
@@ -72,7 +73,7 @@ Ihr arbeitet im Team an der Umsetzung des Projekts.
 ## Testing und Projektabschluss (Nachmittag Tag 5)
 
 Das fertige Projekt wird gemäss eurer Planung getestet und die Ergebnisse in eurem Testprotokoll eingetragen. Das 
-laufend aktualisierte Konzept wird mit dem Projekt zusammen abgegeben.
+laufend aktualisierte Konzept wird im Moodle abgegeben.
 
 Das Projekt muss **auf dem Webserver der ICT-BZ** veröffentlicht werden.
 
