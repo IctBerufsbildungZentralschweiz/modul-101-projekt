@@ -27,7 +27,7 @@ CSS-Flexbox gestaltet werden.
 ### Formular
 
 * [ ] Die Website beinhaltet mindestens `1 Formular` mit mindestens `4 Feldern`.
-* [ ] Im Formular gibt es mindestens ein `select` und ein ein `radio/checkbox` Feld
+* [ ] Im Formular gibt es mindestens ein `select` und ein `radio/checkbox` Feld
 * [ ] Das Formular wird clientseitig validiert
 * [ ] Die Daten des Formulars werden via [formspree.io](https://formspree.io/) versendet
 
