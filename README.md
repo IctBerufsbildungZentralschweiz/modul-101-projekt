@@ -63,8 +63,7 @@ Bis am Abend von Tag 3 muss von jedem Team ein Konzept für die umzusetzende Web
 * Sitemap
 * Test-Checkliste (min. 7 Testfälle)
 
-Das Konzept ist digital im Moodle abzugeben, für die Struktur kann folgende Vorlage verwendet werden: [Konzeptvorlage]
-(src/Projektarbeit_M101_Konzept_VORLAGE.docx)
+Das Konzept ist digital im Moodle abzugeben, für die Struktur kann folgende Vorlage verwendet werden: [Konzeptvorlage](src/Projektarbeit_M101_Konzept_VORLAGE.docx)
 
 ### Umsetzung (bis Nachmittag Tag 5)
 
