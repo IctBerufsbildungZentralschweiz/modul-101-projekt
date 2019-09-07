@@ -27,9 +27,9 @@ CSS-Flexbox gestaltet werden.
 ### Formular
 
 * [ ] Die Website beinhaltet mindestens `1 Formular` mit mindestens `4 Feldern`.
-* [ ] Im Formular gibt es mindestens ein `select` und ein `radio/checkbox` Feld
-* [ ] Das Formular wird clientseitig validiert
-* [ ] Die Daten des Formulars werden via [formspree.io](https://formspree.io/) versendet
+* [ ] Im Formular gibt es mindestens ein `select` und ein `radio/checkbox` Feld.
+* [ ] Das Formular wird clientseitig validiert.
+* [ ] Die Daten des Formulars werden via [formspree.io](https://formspree.io/) versendet.
 
 ### Qualität 
 
@@ -61,7 +61,7 @@ Bis am Abend von Tag 3 muss von jedem Team ein Konzept für die umzusetzende Web
 * Styleguide (geplante Farben, Schriften und Bildarten)
 * Checkliste für das Testing am Ende des Projekts
 * Sitemap
-* Test-Checkliste (min. 7 Testfälle)
+* Test-Checkliste (min. 6 Testfälle)
 
 Das Konzept ist digital im Moodle abzugeben, für die Struktur kann folgende Vorlage verwendet werden: [Konzeptvorlage](src/Projektarbeit_M101_Konzept_VORLAGE.docx)
 
