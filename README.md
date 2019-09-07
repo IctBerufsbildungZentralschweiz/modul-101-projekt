@@ -38,7 +38,7 @@ CSS-Flexbox gestaltet werden.
 * [ ] Der Code der Website wurde `zu 100% selber umgesetzt`.
 * [ ] Der Code der Website ist übersichtlich formatiert.
 * [ ] Der Code der Website ist valide.
-* [ ] HTML und CSS sind korrekt separiert.
+* [ ] HTML und CSS sind korrekt separiert. Es gibt kein redundanter CSS-Code (eine zentrale CSS-Datei für alle Seiten).
 * [ ] Die verwendeten Bilder sind für die Nutzung im Web zugelassen.
 
 ## Arbeitsweise
