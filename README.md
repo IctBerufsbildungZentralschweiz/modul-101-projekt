@@ -4,6 +4,10 @@ Ein örtlicher Verein wendet sich mit dem Auftrag an euer Team, eine neue Websit
 
 Die bestehende Website des Vereins ist veraltet: Das Design ist nicht mehr modern, auf mobilen Geräten ist die Website kaum zu bedienen und die Ladezeit beträgt mehrere Sekunden.
 
+## Konzeptvorlage
+
+Verwende für die Planung Deines Projekts [diese Konzeptvorlage](https://github.com/IctBerufsbildungZentralschweiz/modul-101-projekt/raw/master/src/Projektarbeit_M101_Konzept_VORLAGE.docx).
+
 ## Ziel
 
 Das Ziel dieser Projektarbeit ist es, bis nach dem Mittag von Tag 5 ein in HTML und CSS umgesetztes Layout zu haben, welches bereit für die Übernahme in ein CMS ist.
@@ -63,7 +67,7 @@ Bis am Abend von Tag 3 muss von jedem Team ein Konzept für die umzusetzende Web
 * Sitemap
 * Test-Checkliste (min. 6 Testfälle)
 
-Das Konzept ist digital im Moodle abzugeben, für die Struktur kann folgende Vorlage verwendet werden: [Konzeptvorlage](https://github.com/IctBerufsbildungZentralschweiz/modul-101-projekt/raw/master/src/Projektarbeit_M101_Konzept_VORLAGE.docx)
+Das Konzept ist digital im Moodle abzugeben.
 
 ### Umsetzung (bis Nachmittag Tag 5)
 
