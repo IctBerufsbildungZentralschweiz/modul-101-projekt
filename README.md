@@ -83,11 +83,3 @@ Das Projekt muss **auf dem Webserver der ICT-BZ** veröffentlicht werden.
 Der Datenbestand, der bis zum Abgabetermin auf dem Server ist, wird für die Bewertung verwendet.
 
 Der genaue Abgabetermin wird vom Kursleiter bestimmt.
-
-### Präsentation (Nachmittag Tag 5)
-
-Ihr stellt euer Endresultat dem Kunden (euerer Klasse) vor. Die Art und Weise der Präsentation ist frei wählbar. Die Präsentation ist nicht notenrelevant und sollte 5-7 Minuten dauern.
-
-* [ ] Verkauft eure Lösung dem Kunden als "besonders"
-* [ ] Zeigt auf, was eure Website zu etwas einzigartigem macht
-* [ ] Begründet eure Entscheidungen während der Umsetzung
