@@ -63,9 +63,8 @@ Bis am Abend von Tag 3 muss von jedem Team ein Konzept für die umzusetzende Web
 * Projektplanung
 * Wireframes (mindestens je ein Wireframe für die Startseite und die Folgeseiten)
 * Styleguide (geplante Farben, Schriften und Bildarten)
-* Checkliste für das Testing am Ende des Projekts
 * Sitemap
-* Test-Checkliste (min. 6 Testfälle)
+* Checkliste für das Testing am Ende des Projekts (min. 6 Testfälle)
 
 Das Konzept ist digital im Moodle abzugeben.
 
