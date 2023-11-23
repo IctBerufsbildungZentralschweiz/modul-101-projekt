@@ -51,6 +51,19 @@ CSS-Flexbox gestaltet werden.
 * Bis Tag 5 können die Pausen frei eingeteilt werden. Haltet euch dabei an die Mindestdauer. Mittagspause sowie Start- und Ende des Arbeitstages sind fix und für alle gleich.
 * Mit den VS Code Plugins "Live Share" und "ftp-sync" kann die Zusammenarbeit via gemeinsamem Code und automatischem Upload vereinfacht werden. "ftp-sync" lässt sich nach Installation via `Ctrl+Shift+P` > `ftp-sync: Init` konfigurieren (UploadOnSave). **Hinweis**: Wenn's zickt, VS Code neu starten! 
 
+### Empfohlenes Vorgehen & Zusammenarbeit zu zweit
+
+1. Erstellt zuerst zusammen ein HTML-Grundgerüst (html, head, body) mit allen Containern (Header, Navigation, Content, Sidebar, Footer etc.) und speichert sie z.B. als `vorlage.html`.
+
+2. Erstellt dazu ein CSS mit einem Grid und bindet es ein. 
+
+3. Für alle Webseiten könnt ihr dann eine Kopie vom Grundgerüst erstellen. Achtung: Änderungen am Grundgerüst müssen von Hand in die Kopien übertragen werden.
+
+4. Für die Zusammenarbeit könnt ihr nun entweder 
+   * Die Extention `Live Share` installieren und am gleichen Code zusammenarbeiten. Nachteil: Nur eine Person hat den Code und kann die Vorschau ansehen. Sie kann den Code ab & zu auf den Webserver laden (FTP), dann können es beide sehen. Oder: 
+   * Ein 2. temporäres CSS (dein-name-temp.css) erstellen und im HTML-Grundgerüst verlinken (dann habt ihr 2. CSS eingebunden). Im zweiten CSS kann die 2. Person frei neuen Code rein schreiben. Dann ab & zu zusammenkopieren. 
+   - Vorschau: Auf FTP-Server hochladen und im Browser aktualisieren.
+
 ## Etappen
 
 ### Konzept (bis Ende Tag 3)
