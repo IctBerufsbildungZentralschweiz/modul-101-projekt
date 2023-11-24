@@ -33,7 +33,7 @@ CSS-Flexbox gestaltet werden.
 * [ ] Die Website beinhaltet mindestens `1 Formular` mit mindestens `4 Feldern`.
 * [ ] Im Formular gibt es mindestens ein `select` und ein `radio/checkbox` Feld.
 * [ ] Das Formular wird clientseitig validiert.
-* [ ] Die Daten des Formulars werden an [https://formlog.offline.ch](https://formlog.offline.ch) gesendet.
+* [ ] Die Daten des Formulars werden an [https://formlog.offline.ch/log](https://formlog.offline.ch/log) gesendet. Anschauen kannst du die gesendeten Daten auf [https://formlog.offline.ch/](https://formlog.offline.ch/).
 
 ### Qualität 
 
