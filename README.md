@@ -49,9 +49,6 @@ CSS-Flexbox gestaltet werden.
 
 * Ihr arbeitet in max. `2er-Teams`.
 * Bis Tag 5 können die Pausen frei eingeteilt werden. Haltet euch dabei an die Mindestdauer. Mittagspause sowie Start- und Ende des Arbeitstages sind fix und für alle gleich.
-* Mit der VS Code Extension "Live Share" kann die Zusammenarbeit via gemeinsamem Code vereinfacht werden.
-* Die Extension "Live Server" erlaubt gemeinsames Testing: Rechtsklick auf eine HTML-Datei und "Open with Live Server". Die URL zum Testen wird automatisch mit dem Kollaborateur geteilt. Er kann ie URL dann im Webbrowser öffnen. 
-**Hinweis**: Wenn's zickt, VS Code neu starten! 
 
 ### Empfohlenes Vorgehen & Zusammenarbeit zu zweit
 
@@ -61,10 +58,10 @@ CSS-Flexbox gestaltet werden.
 
 3. Für alle Webseiten könnt ihr dann eine Kopie vom Grundgerüst erstellen. Achtung: Änderungen am Grundgerüst müssen von Hand in die Kopien übertragen werden.
 
-4. Für die Zusammenarbeit könnt ihr nun entweder 
-   * Die Extention `Live Share` installieren und am gleichen Code zusammenarbeiten. Nachteil: Nur eine Person hat den Code und kann die Vorschau ansehen. Sie kann den Code ab & zu auf den Webserver laden (FTP), dann können es beide sehen. Oder: 
-   * Ein 2. temporäres CSS (dein-name-temp.css) erstellen und im HTML-Grundgerüst verlinken (dann habt ihr 2. CSS eingebunden). Im zweiten CSS kann die 2. Person frei neuen Code rein schreiben. Dann ab & zu zusammenkopieren. 
-   - Vorschau: Auf FTP-Server hochladen und im Browser aktualisieren.
+4. Für die Zusammenarbeit könnt ihr nun entweder
+  * Die VS Code Extension "Live Share" ermöglicht die Zusammenarbeit an gemeinsamem Code. Der Code liegt nur auf 1 Rechner und der muss laufen, aber beide können gleichzeitig bearbeiten. 
+  * Die Extension "Live Server" erlaubt gemeinsames Testing: Rechtsklick auf eine HTML-Datei und "Open with Live Server". Die URL zum Testen wird automatisch mit dem Kollaborateur geteilt. Er kann ie URL dann im Webbrowser öffnen. 
+**Hinweis**: Wenn's zickt, VS Code neu starten! 
 
 ## Etappen
 
