@@ -49,7 +49,9 @@ CSS-Flexbox gestaltet werden.
 
 * Ihr arbeitet in max. `2er-Teams`.
 * Bis Tag 5 können die Pausen frei eingeteilt werden. Haltet euch dabei an die Mindestdauer. Mittagspause sowie Start- und Ende des Arbeitstages sind fix und für alle gleich.
-* Mit den VS Code Plugins "Live Share" und "ftp-sync" kann die Zusammenarbeit via gemeinsamem Code und automatischem Upload vereinfacht werden. "ftp-sync" lässt sich nach Installation via `Ctrl+Shift+P` > `ftp-sync: Init` konfigurieren (UploadOnSave). **Hinweis**: Wenn's zickt, VS Code neu starten! 
+* Mit der VS Code Extension "Live Share" kann die Zusammenarbeit via gemeinsamem Code vereinfacht werden.
+* Die Extension "Live Server" erlaubt gemeinsames Testing: Rechtsklick auf eine HTML-Datei und "Open with Live Server". Die URL zum Testen wird automatisch mit dem Kollaborateur geteilt. Er kann ie URL dann im Webbrowser öffnen. 
+**Hinweis**: Wenn's zickt, VS Code neu starten! 
 
 ### Empfohlenes Vorgehen & Zusammenarbeit zu zweit
 
